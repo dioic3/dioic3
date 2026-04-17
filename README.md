@@ -9,7 +9,7 @@ const JoyceDaCosta = {
     thirdLanguage: 'French',
     askMeAbout: ['Software Test', 'Test', 'Doramas', 'Study','Coffee','Inatel'],
     message: "Graduanda em Engenharia de Computação e uma pequena aprendiz na área de Qualidade de Software como Quality Assurance Junior no Gringo."
-    outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
+    outhers: ['git', 'npm', 'yarn', 'test case', 'bdd', 'gherkin', 'cucumber', 'yaml'],
     technologies: {
         frontEndTest: {
             web: ['Cypress'],
@@ -21,8 +21,8 @@ const JoyceDaCosta = {
         os: ['windows', 'linux'],
         ides: ['IntelliJ', 'vscode'],
         cicd: ['github actions'],
-        managementTools: ['jira'],
-        agileMethodologies: ['Scrum']
+        managementTools: ['jira', 'azure devops'],
+        agileMethodologies: ['Scrum', 'Kanban']
     }
 };
 ```
