@@ -4,24 +4,26 @@
 const JoyceDaCosta = {
     pronouns: 'she',
     nickName: 'Dioice',
-    code: ['Javascript'],
+    code: ['JavaScript'],
     secondLanguage: 'English',
     thirdLanguage: 'French',
-    askMeAbout: ['Software Test', 'Test', 'Doramas', 'Study','Coffee','Inatel'],
-    message: "Graduanda em Engenharia de Computação e uma pequena aprendiz na área de Qualidade de Software como Quality Assurance Junior no Gringo."
-    outhers: ['git', 'npm', 'yarn', 'test case', 'bdd', 'gherkin', 'cucumber', 'yaml'],
+    askMeAbout: ['Software Test', 'Test', 'Doramas', 'Study', 'Coffee', 'Inatel'],
+    message: "Engenheira de Computação (Inatel), pós-graduanda em Engenharia de Software (PUC Minas) e Quality Assurance Pleno na Performa IT, atuando no cliente ALE Combustíveis.",
+    others: ['git', 'npm', 'yarn', 'test case', 'bdd', 'gherkin', 'cucumber', 'yaml'],
     technologies: {
         frontEndTest: {
             web: ['Cypress'],
-            mobile: ['Maestro'],
+            mobile: ['Maestro', 'TestFlight', 'Android Studio']
+        },
         backEnd: {
             js: ['node.js'],
-            api: ['Postman','Cypress']
+            api: ['Postman', 'Cypress'],
+            database: ['SQL', 'DBeaver']
         },
         os: ['windows', 'linux'],
         ides: ['IntelliJ', 'vscode'],
         cicd: ['github actions'],
-        managementTools: ['jira', 'azure devops'],
+        managementTools: ['jira', 'xray', 'azure devops'],
         agileMethodologies: ['Scrum', 'Kanban']
     }
 };
